@@ -79,7 +79,12 @@
 <configuration>
 <projectName>TechArch Cucumber</projectName>
 <skip>false</skip>
-<outputdirectory>reports/html-reports</outputdirectory>
+<outputDirectory>target/cucumber-html-reports</outputDirectory>
+<jsonFiles>
+<param>target/cucumber-reports/cucumber.json</param>
+
+
+</jsonFiles>
 
 
 
