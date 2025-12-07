@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.cucumber.runner.Runner2
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.035 s -- in com.cucumber.runner.Runner2
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.969 s -- in com.cucumber.runner.Runner2
